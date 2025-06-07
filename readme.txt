@@ -12,3 +12,7 @@ How to run the GYM  Management System Project Using PHP and MySQL
 6.Import gymdb.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/gym
+
+Admin Credential
+Username: admin
+Password: admin123
